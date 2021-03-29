@@ -6,3 +6,7 @@
 .DS_Store
 Thumbs.db
 
+# Hugo
+/resources/
+public/
+assets/jsconfig.json
