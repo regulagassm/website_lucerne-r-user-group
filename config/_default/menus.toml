@@ -10,7 +10,7 @@
 
 [[main]]
   name = "News"
-  url = "post"
+  url = "post/"
   weight = 20
 
 #[[main]]
@@ -20,15 +20,15 @@
 
 [[main]]
   name = "Past Events"
-  url = "past_events"
+  url = "past_events/"
   weight = 40
 
 [[main]]
   name = "Sponsors"
-  url = "sponsors"
+  url = "sponsors/"
    weight = 50
 
 [[main]]
   name = "Contact"
-  url = "contact"
+  url = "contact/"
   weight = 60
