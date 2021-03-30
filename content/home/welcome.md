@@ -18,3 +18,4 @@ advanced:
 ---
 
 R users in Central Switzerland: socialize with other R programming enthusiasts, attend presentations on R topics, and provide mutual technical support.
+Join us for the next event on [meetup](https://www.meetup.com/Lucerne-R-User-Group/) 
