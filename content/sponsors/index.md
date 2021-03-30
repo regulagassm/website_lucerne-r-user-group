@@ -25,8 +25,10 @@ Find more about the Rconsortium [here](https://www.r-consortium.org/)</font>
 <br>   
 {{< figure src="Universität_Luzern.png">}}
 <br>
-<font size = "3">The [University of Lucerne](https://www.unilu.ch/) is supporting the R Group and will be a place for offline meetings in the future.<br>
-We would also thank the study programm [LUMACSS](https://www.unilu.ch/index.php?id=9375&L=1&no_cache=1#c77821) for their help. </font>
+<font size = "3">We would like to thank the study programm [LUMACSS](https://www.unilu.ch/index.php?id=9375&L=1&no_cache=1#c77821) for their financial support.<br>
+Also we would like to thank the [Graduate School](https://www.unilu.ch/fakultaeten/ksf/institute/graduate-school/) of the KSF, who will provide us with venues and who is sponsoring the meetup.com meetings. <br>
+Last but not least we would like to thank the [Campus Luzern](https://www.campus-luzern.ch/), who is providing us with venues and who is providing R Courses.
+</font>
 
 
 
