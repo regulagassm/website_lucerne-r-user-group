@@ -1,0 +1,23 @@
+---
+title: "Next Event"
+author: "Regula Gassmann"
+categories: ["R"]
+tags: ["R User Group", "event", "meetup"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+Lucerne RUG: Market Research + Extracting and structuring portfolio data
+
+The Lucerne R User Group is happy to announce our next event at 31th of March. There will be two presentations. We meet online via Zoom (link on [meetup](https://www.meetup.com/Lucerne-R-User-Group/events/276990030/)).
+
+Thomas Bauer (SUVA) will talk about "Use Cases for R in Market Research Industry". The second presentation, held by Thomas Spycher (Novalytica), has the title "Using R to extract and structure portfolio data", so we're looking forward to business applications!  
+
+Time plan:  
+- 18.00 - 18.05 – Virtual reception  
+- 18.05 - 18.35 – Presentation by Thomas Bauer  
+- 18.35 - 19.05 – Presentation by Thomas Spycher  
+- 19.05 - 19:40 – Discussion and Q&A
+
