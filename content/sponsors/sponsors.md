@@ -5,9 +5,7 @@ output:
       df_print: paged
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 This R User Group would not be possible without our helpful sponsors. We would like to formally thank them to make this possible. 
 
