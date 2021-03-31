@@ -84,7 +84,7 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "regula.gassmann@stud.unilu.ch"
+email = ""
 
 
 # Address
@@ -108,7 +108,8 @@ coordinates = {latitude = "47.049648538389825", longitude = "8.312354465070547"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
- {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/lucerne_r"},
+ {icon = "twitter", icon_pack = "fab", link = "https://twitter.com/lucerne_r"},
+ {icon = "meetup", icon_pack = "fab", link = "https://www.meetup.com/Lucerne-R-User-Group"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
