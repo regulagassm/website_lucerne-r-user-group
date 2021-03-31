@@ -27,6 +27,7 @@ output:
 
 - [Object Oriented Programming in R: An Introduction to S3](https://github.com/Lucerne-R-User-Group/2020_11_25-meeting-3/blob/main/02-huwiler-S3-OO/intro_s3.pdf)(**Lukas Huwiler**, ***)
 
+- [Introduction to Shiny](https://www.barcelonar.org/workshops/BarcelonaR_Introduction_to_Shiny.pdf)(**Nicolas Attalides**, Mango Solutions)
 
 
 #### October 28, 2020
