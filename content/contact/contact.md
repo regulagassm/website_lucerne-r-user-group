@@ -1,12 +1,12 @@
 ---
-content:
-  autolink: false
-  form:
-    formspree:
-      id: null
-    netlify:
-      captcha: false
-    provider: netlify
+#content:
+#  autolink: false
+#  form:
+#    formspree:
+#      id: null
+#    netlify:
+#      captcha: false
+#    provider: netlify
 design:
   columns: "1"
 headless: true
