@@ -1,6 +1,6 @@
 ---
 content:
-  autolink: true
+  autolink: false
   form:
     formspree:
       id: null
@@ -15,5 +15,3 @@ title: Contact
 weight: 10
 widget: contact
 ---
-
-
